@@ -1,6 +1,6 @@
 # sakUNA
 
-sakUNA is an application that maps out areas experiencing disasters with the purpose of providing disaster response and recovery efficiently based on English, Filipino, and Cebuano tweets gathered in Twitter.
+sakUNA is an application that maps out areas experiencing disasters with the purpose of providing disaster response and recovery efficiently based on tweets gathered in Twitter.
 
 This project is developed by: 
 
